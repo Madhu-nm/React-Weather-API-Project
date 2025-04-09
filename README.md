@@ -8,4 +8,5 @@ Excited to share my latest project where I’ve built a dynamic weather forecast
 
 💻 This project combines React with live weather data to create an interactive and responsive user experience. Perfect for anyone who loves staying updated with the weather, from daily forecasts to detailed metrics!  
 #React #WeatherApp #FrontendDevelopment #WebDev #JavaScript #WeatherForecast #Coding
-![image](https://github.com/user-attachments/assets/9d6ae894-0811-4675-8954-3b701b9767cf)
+![image](https://github.com/user-attachments/assets/cbb1dd58-1b99-44e6-8805-f4f72cd97c38)
+
